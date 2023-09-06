@@ -191,7 +191,7 @@
 /* remove backgrounds to show gaps */
 .sidebar-1tnWFu /* channel list and user panel */,
 .chat-2ZfjoI /* chat and member list */ {
-	background: transparent;
+	background: none;
 }
 
 /* add rounded corners */
