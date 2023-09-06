@@ -206,9 +206,7 @@
 	border-radius: var(--roundness);
 	overflow: hidden;
 }
-.chatContent-3KubbW /* main chat */{
-	background: transparent;
-}
+.chatContent-3KubbW /* main chat */,
 .container-3wLKDe /* forum */,
 .container-2o3qEW /* member list outer (when main chat) */,
 .membersWrap-3NUR2t /* member list */,
